@@ -1,0 +1,61 @@
+{
+  "bot-account": {
+    "username": "Karam_Bot",
+    "password": "karam24/7Bot",
+    "type": "microsoft"
+  },
+
+  "server": {
+    "ip": "KaramServerYT333.aternos.me",
+    "port": 19866,
+    "version": "1.19.4"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true,
+      "jump": false,
+      "rotate": true,
+
+      "hit": {
+        "enabled": false,
+        "delay": 1000,
+        "attack-mobs": false
+      },
+
+      "circle-walk": {
+        "enabled": false,
+        "radius": 2
+      }
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "هلا انا بوت سيرفر كرم انا مهمتي هي ان اجعل السيرفر شخال 24 ساعة",
+        "هل انت من مشتريكين قنات كرم؟ الرابط القناة https://www.youtube.com/channel/UCzNmz3FdFv7g6nDLB_XhUzg",
+        "هل انت من متابيعين كرم على التيكتوك؟ رابط تيكتوك https://www.tiktok.com/@rp_karam"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000
+  }
+}
